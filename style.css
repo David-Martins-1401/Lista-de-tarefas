@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(67, 68, 68);
+    display: flex;
+    justify-content: center;
+}
+
+#app{
+    border: solid 2px red;
+    padding: 50px;
+
+}
+
+#app ul {
+    color: aqua;
+    text-decoration: none;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
